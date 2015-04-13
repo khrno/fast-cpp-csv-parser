@@ -11,7 +11,7 @@ I post here a few examples to show how it works.
 ### Examples
 1. This example read a 3-column file without header and the types of each columns are: Integer, String, Integer respectively. Then just show the middle column.
 
-```
+```c++
 #include <iostream>
 #include "csv.h"
 using namespace std;
